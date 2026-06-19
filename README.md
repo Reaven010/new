@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="./coding.gif" width="85%" alt="Coding Animation"/>
+      <img src="[./coding.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1MHQyZ2xna2RvYjdwZnI0OXlyb25mOTIzYWJoNHBpbDFhMnU5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)" width="85%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
