@@ -100,6 +100,5 @@
 <br>
 
 <div align="center">
-  <p>⭐ <i>If you find my journey relatable, feel free to follow or explore my repositories. Learning never stops!</i> 🚀</p>
-  <img src="https://komarev.com/ghpvc/?username=Reaven010&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" />
 </div>
