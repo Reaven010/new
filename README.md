@@ -11,7 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
 
 ## 👨‍💻 About Me
 
@@ -27,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtoZ3A1Y3I0bXp6bXp6bXp6bXp6bXp6bXp6bXp6bXp6bXp6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgTR3UQ9XA3vy/giphy.gif" width="85%" alt="Coding Animation"/>
+      <img src="./coding.gif" width="85%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
